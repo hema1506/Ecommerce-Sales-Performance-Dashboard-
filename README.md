@@ -56,5 +56,5 @@ Strategic Expansion: Management can spot underdeveloped regions with high potent
 Operational Planning: Supply chain leads can plan inventory based on seasonal availability and demand peaks.
 
 6. Screenshots / Demos
-   C:\Users\Lavanya99\OneDrive\Pictures\Screenshots\Screenshot 2026-03-03 093544.png
+ https://github.com/hema1506/Ecommerce-Sales-Performance-Dashboard-/blob/main/Screenshot%202026-03-03%20093544.png
    
